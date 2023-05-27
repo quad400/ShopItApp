@@ -1,0 +1,15 @@
+Django>4.1, <4.2
+psycopg2-binary
+python-decouple
+Pillow
+# stripe
+boto3
+django-storages
+gunicorn
+Pillow
+django-countries
+django-admin-thumbnails
+django-js-asset
+django-mptt
+django-dotenv
+django-allauth
